@@ -15,6 +15,7 @@
     ],
     "global-require": "off",
     "no-console": "off",
+    "react-native/no-color-literals": "off",
     "import/prefer-default-export": "off",
     "no-unused-vars": [
       "error",
